@@ -32,7 +32,7 @@ d. Categorized Length of Songs (length_flag)
 <b>7. Visualize Churn Analysis</b><br>
 Visualizations are created to display the churn rate based on different factors such as user level, gender, length of stay, and item in session.
 
-<b>8. Wrapping Up<br>
+<b>8. Wrapping Up</b><br>
 The code concludes by displaying a portion of the DataFrame to give you an idea of the data structure.
 
 Feel free to use this code as a starting point to develop your Sparkify project further. You can explore advanced machine learning techniques, feature engineering, model training, and evaluation to predict user churn effectively. Good luck with your Sparkify project!
