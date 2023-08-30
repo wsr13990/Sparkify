@@ -34,3 +34,5 @@ Visualizations are created to display the churn rate based on different factors 
 
 <b>8. Wrapping Up</b><br>
 The best churn prediction results were obtained using the Boosted Tree algorithm, achieving an F1 score of 0.804. This score highlights the model's strong performance in accurately identifying potential churn instances while minimizing false positives and false negatives.
+
+Article: https://medium.com/@wahyusejatiroso/predicting-customer-churn-with-pyspark-a-deep-dive-into-data-analysis-and-machine-learning-8ec12b0c9438 
