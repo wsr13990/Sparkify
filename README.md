@@ -24,10 +24,10 @@ Basic exploratory data analysis is carried out to observe the behavior of users 
 
 <b>6. Identify Features for Churn Prediction</b><br>
 Different features that might be useful for predicting churn are created. These features include:
-a. Length of Stay (los_days)
-b. Categorized Length of Stay (los_flag)
-c. Categorized Item in Session (itemInSession_flag)
-d. Categorized Length of Songs (length_flag)
+a. Length of Stay (los_days)<br>
+b. Categorized Length of Stay (los_flag)<br>
+c. Categorized Item in Session (itemInSession_flag)<br>
+d. Categorized Length of Songs (length_flag)<br>
 
 <b>7. Visualize Churn Analysis</b><br>
 Visualizations are created to display the churn rate based on different factors such as user level, gender, length of stay, and item in session.
