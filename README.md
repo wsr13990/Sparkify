@@ -1,5 +1,5 @@
 # Sparkify
-## A capstone project of the [datascience nanodegree by Udacity]
+## A capstone project of the Datascience Nanodegree by Udacity
 
 We have an example of a virtual company called 'Sparkify' who offers paid and free listening service, the customers can switch between either service, and they can cancel their subscription at any time.
 
