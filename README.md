@@ -1,7 +1,11 @@
 # Sparkify
-## *A capstone project of the [datascience nanodegree by Udacity]
+## A capstone project of the [datascience nanodegree by Udacity]
 
-Welcome to the Sparkify Project Workspace! This workspace contains a subset (128MB) of the full Sparkify dataset (12GB). You can use this workspace to build and explore your project before deploying your Spark cluster on the cloud. Here's a guide to help you navigate through the code and steps provided:
+We have an example of a virtual company called 'Sparkify' who offers paid and free listening service, the customers can switch between either service, and they can cancel their subscription at any time.
+
+The project aims to build a machine learning model using PySpark to predict customer churn for the 'Sparkify' music streaming platform, analogous to Spotify. The dataset, a subset provided by Udacity for their Data Science Capstone project, comprises web interactions including page details, timestamps, and userIDs. While the full dataset requires powerful hardware, a smaller sample is used here. The emphasis is on scalability, favoring PySpark over pandas and scikit-learn.
+
+This workspace contains a subset (128MB) of the full Sparkify dataset (12GB):
 
 <b>1. Importing Libraries</b>
 The code begins by importing necessary libraries and modules from the PySpark ecosystem, as well as other Python libraries like NumPy and pandas.
