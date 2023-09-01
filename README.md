@@ -5,16 +5,26 @@ This project focuses on developing a robust customer churn prediction model usin
 
 ## Table of Contents:
 
-1. [Introduction](#introduction)
-2. [Input Data](#input-data)
-3. [Data Preprocessing and Feature Engineering](#data-preprocessing-and-feature-engineering)
-4. [Modeling and Evaluation](#modeling-and-evaluation)
-5. [Results](#results)
-6. [Conclusion](#conclusion)
-7. [Acknowledgment](#acknowledgment)
-8. [Improvements](#improvements)
+1. [Libray Used](#library-used)
+2. [Introduction](#introduction)
+3. [Input Data](#input-data)
+4. [Data Preprocessing and Feature Engineering](#data-preprocessing-and-feature-engineering)
+5. [Modeling and Evaluation](#modeling-and-evaluation)
+6. [Results](#results)
+7. [Conclusion](#conclusion)
+8. [Acknowledgment](#acknowledgment)
+9. [Improvements](#improvements)
 
-## 1. Introduction:
+## 1. Library Used:
+The following library were used in this project
+
+matplotlib==2.1.0
+numpy==1.12.1
+pandas==0.23.3
+pyspark==2.4.3
+seaborn==0.8.1
+
+## 2. Introduction:
 
 In today's data-driven business landscape, predicting customer churn is crucial for effective customer relationship management. This project aims to construct a robust customer churn prediction model using PySpark, a powerful distributed data processing library. The workflow encompasses data loading, cleaning, exploratory data analysis (EDA), feature engineering, and model evaluation.
 
