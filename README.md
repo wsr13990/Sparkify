@@ -18,11 +18,11 @@ This project focuses on developing a robust customer churn prediction model usin
 ## 1. Library Used:
 The following library were used in this project
 
-matplotlib==2.1.0
-numpy==1.12.1
-pandas==0.23.3
-pyspark==2.4.3
-seaborn==0.8.1
+matplotlib==2.1.0<br>
+numpy==1.12.1<br>
+pandas==0.23.3<br>
+pyspark==2.4.3<br>
+seaborn==0.8.1<br>
 
 ## 2. Introduction:
 
