@@ -5,7 +5,7 @@ This project focuses on developing a robust customer churn prediction model usin
 
 ## Table of Contents:
 
-1. [Libray Used](#library-used)
+1. [Library Used](#library-used)
 2. [Introduction](#introduction)
 3. [Input Data](#input-data)
 4. [Data Preprocessing and Feature Engineering](#data-preprocessing-and-feature-engineering)
