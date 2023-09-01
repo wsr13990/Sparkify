@@ -1,8 +1,4 @@
-# Sparkify
-## A capstone project of the Datascience Nanodegree by Udacity
-
-# Customer Churn Prediction Using PySpark
-
+# Sparkify (A capstone project of the Datascience Nanodegree by Udacity)
 ## Overview:
 
 This project focuses on developing a robust customer churn prediction model using PySpark within a data-driven business context. The goal is to effectively predict customer churn and enable data-centric decision-making. This README provides an overview of the project, its components, and key findings.
